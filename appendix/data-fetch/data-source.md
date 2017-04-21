@@ -22,6 +22,7 @@
 
 IRIS DMC的大部分数据是完全公开的，无需注册即可直接申请下载波形数据。
 从IRIS DMC申请数据的工具有很多：
+[ObsPy](http://docs.obspy.org/)、
 [BREQ\_FAST](https://ds.iris.edu/ds/nodes/dmc/manuals/breq_fast/)、
 [Wilber III](http://ds.iris.edu/wilber3/find_event)、 [Web
 Service](http://service.iris.edu/)、
